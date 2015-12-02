@@ -6,3 +6,5 @@
 
 
 ![ready](http://i.giphy.com/3oEdv5hgaihi21MhyM.gif)
+
+<a href='https://learn.co/lessons/pc-ios-day08-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
