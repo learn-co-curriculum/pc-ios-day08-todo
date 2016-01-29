@@ -6,3 +6,5 @@
 
 
 ![ready](http://i.giphy.com/3oEdv5hgaihi21MhyM.gif)
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-day08-todo' title='To Do'>To Do</a> on Learn.co and start learning to code for free.</p>
